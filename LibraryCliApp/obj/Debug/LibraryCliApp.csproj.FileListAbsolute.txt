@@ -1,0 +1,7 @@
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\LibraryCliApp\LibraryCliApp\bin\Debug\LibraryCliApp.exe.config
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\LibraryCliApp\LibraryCliApp\bin\Debug\LibraryCliApp.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\LibraryCliApp\LibraryCliApp\bin\Debug\LibraryCliApp.pdb
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\LibraryCliApp\LibraryCliApp\obj\Debug\LibraryCliApp.csproj.AssemblyReference.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\LibraryCliApp\LibraryCliApp\obj\Debug\LibraryCliApp.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\LibraryCliApp\LibraryCliApp\obj\Debug\LibraryCliApp.exe
+C:\Users\Local User\Desktop\MyProjects\CSharpProjects\LibraryCliApp\LibraryCliApp\obj\Debug\LibraryCliApp.pdb
